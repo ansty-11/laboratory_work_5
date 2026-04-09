@@ -68,7 +68,7 @@ public class UserSession {
                         + "📝 Всего:         %d\n"
                         + "🎯 Точность:      %.1f%%\n"
                         + "🔥 Серия сейчас:  %d\n"
-                        + "🏆 Лучшая серия:  %d",
+                        + "💪 Лучшая серия:  %d",
                 totalCorrect,
                 getTotalWrong(),
                 totalAnswered,
